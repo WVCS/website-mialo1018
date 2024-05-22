@@ -1,3 +1,42 @@
-body {
+h2 {
+  color: white;
+  font-size: 250%;
+  text-align: center;
+  letter-spacing: 2px;
+  text-shadow: 2px 1px 3px black;
+}
 
+body {
+  background-color: black;
+}
+
+img {
+  width: 30%;
+}
+
+img:hover {
+  width: 100%;
+}
+nav {
+  color: white;
+  list-style-type: none;
+  position: fixed;
+  background-color: grey;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 10px;
+}
+
+li {
+  display: inline;
+  padding: 10px; 
+}
+
+a: hover {
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: white;
 }
