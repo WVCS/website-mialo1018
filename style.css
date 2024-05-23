@@ -22,7 +22,7 @@ nav {
   color: white;
   list-style-type: none;
   position: fixed;
-  background-color: grey;
+  background-color: rgba(128,128,128,0.7);
   width: 100vw;
   top: 0;
   left: 0;
